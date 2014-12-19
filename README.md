@@ -41,7 +41,7 @@ A simple Online application that can be searched with sinhala, sinlish or englis
 
 
 
-###1. Open Data XLS | PDF to SQL
+###1. Open Data XLS | PDF to JSON
 
 ####Author
 
@@ -54,7 +54,7 @@ Pasindu De Silva
 
 Some Sri Lankan data has been published in the following link [Sri Lanka Open Data](http://www.gov.lk/web/index.php?option=com_content&view=article&id=301&Itemid=423&lang=en). Currently there are in xls and pdf format.
 
-As developers we can do more if it was in SQL and do some nice graphics. My suggestion is to take them from XLS or PDF and make SQL and later provide developers a API.
+As developers we can do more if it was in JSON and do some nice graphics. My suggestion is to take them from XLS or PDF and make JSON and later provide developers a API.
 
 Issues link - [Post you comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/2)
 
